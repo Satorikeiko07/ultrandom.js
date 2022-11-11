@@ -1,0 +1,22 @@
+{
+  "name": "ultrandom",
+  "version": "1.0.0",
+  "description": "A library that returns a random true/false boolean",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Satorikeiko07/ultrandom.js.git"
+  },
+  "keywords": [
+    "bool"
+  ],
+  "author": "Satorikeiko07",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Satorikeiko07/ultrandom.js/issues"
+  },
+  "homepage": "https://github.com/Satorikeiko07/ultrandom.js#readme"
+}
